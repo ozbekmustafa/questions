@@ -1,0 +1,6 @@
+C:\Users\OZBEK\source\repos\question3\question1\bin\Debug\question1.exe.config
+C:\Users\OZBEK\source\repos\question3\question1\bin\Debug\question1.exe
+C:\Users\OZBEK\source\repos\question3\question1\bin\Debug\question1.pdb
+C:\Users\OZBEK\source\repos\question3\question1\obj\Debug\question1.csproj.CoreCompileInputs.cache
+C:\Users\OZBEK\source\repos\question3\question1\obj\Debug\question1.exe
+C:\Users\OZBEK\source\repos\question3\question1\obj\Debug\question1.pdb

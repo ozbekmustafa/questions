@@ -1,0 +1,12 @@
+C:\Users\OZBEK\source\repos\question3\question3\bin\Debug\question3.exe.config
+C:\Users\OZBEK\source\repos\question3\question3\bin\Debug\question3.exe
+C:\Users\OZBEK\source\repos\question3\question3\bin\Debug\question3.pdb
+C:\Users\OZBEK\source\repos\question3\question3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OZBEK\source\repos\question3\question3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.csproj.AssemblyReference.cache
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.Properties.Resources.resources
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.csproj.GenerateResource.cache
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.csproj.CoreCompileInputs.cache
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.csproj.CopyComplete
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.exe
+C:\Users\OZBEK\source\repos\question3\question3\obj\Debug\question3.pdb
